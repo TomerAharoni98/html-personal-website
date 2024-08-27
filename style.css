@@ -1,0 +1,33 @@
+body {
+    background-color: #EAF9F4;
+}
+
+.Tomer-photo {
+    height: 200px;
+    width: 100px;
+    border-radius: 10%;
+}
+
+h1 {
+    font-family: "Dancing Script", sans-serif;
+    color: rgb(78, 163, 163);
+}
+
+h2 {
+    font-family: "Josefin Sans", sans-serif;
+    color: rgb(78, 163, 163);
+}
+
+h3 {
+    color: rgb(78, 163, 163);
+    font-family:  "Josefin Sans", sans-serif;
+}
+
+h4 {
+    font-family: "Josefin Sans", sans-serif;
+    color: rgb(78, 163, 163);
+}
+
+p {
+    font-family: "Josefin Sans", sans-serif;
+}
